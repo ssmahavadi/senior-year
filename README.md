@@ -1,3 +1,3 @@
-# Senior Year: August 2020 — June 2021
+# Senior Year (2020-2021) Projects
 
 A collection of programs that I wrote in my IB Computer Science HL class.
